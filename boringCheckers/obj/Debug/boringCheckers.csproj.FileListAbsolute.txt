@@ -1,0 +1,7 @@
+c:\users\cca017\source\repos\boringCheckers\boringCheckers\bin\Debug\boringCheckers.exe.config
+c:\users\cca017\source\repos\boringCheckers\boringCheckers\bin\Debug\boringCheckers.exe
+c:\users\cca017\source\repos\boringCheckers\boringCheckers\bin\Debug\boringCheckers.pdb
+c:\users\cca017\source\repos\boringCheckers\boringCheckers\obj\Debug\boringCheckers.csprojResolveAssemblyReference.cache
+c:\users\cca017\source\repos\boringCheckers\boringCheckers\obj\Debug\boringCheckers.csproj.CoreCompileInputs.cache
+c:\users\cca017\source\repos\boringCheckers\boringCheckers\obj\Debug\boringCheckers.exe
+c:\users\cca017\source\repos\boringCheckers\boringCheckers\obj\Debug\boringCheckers.pdb
